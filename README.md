@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raka R.A Prasetyo
 - 👀 I’m interested in programming and machine learning
-- 🌱 I’m currently learning machine learning and deep learning in several course
+- 🌱 I’m currently working as Fullstack Engineering
 - 📫 How to reach me @raprast.raka@gmail.com
 
 <!---
